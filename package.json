@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-hcp-openapi-connector",
+  "description": "A Node.js connector to consume a data from HikCentral Pro OpenAPI.",
+  "author": "muhdshafiqsofian",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1"
+  }
+}
